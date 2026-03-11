@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu Tyagi</h1>
 <h3 align="center">A Passionate AI/ML Engineer</h3>
 
-- 🌱 I’m currently learning ** Machine Learning and AI**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 💬 Ask me about **my projects and experiences**
 
