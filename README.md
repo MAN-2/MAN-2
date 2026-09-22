@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manu Tyagi</h1>
 <h3 align="center">A Passionate AI/ML Engineer</h3>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning ** AI and Machine Learning **
 
 - 💬 Ask me about **my projects and experiences**
 
 - 📫 How to reach me **manutyagi500@gmail.com**
-- 💼 LinkedIn : **http://in.linkedin.com/in/manu-tyagi-b98b83259**
+- 💼 LinkedIn : **https://www.linkedin.com/in/manu-tyagi-/**
 
 
 
